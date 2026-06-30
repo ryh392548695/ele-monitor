@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EleMonitor" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#FF6600</item>
+        <item name="colorPrimaryVariant">#E55A00</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">#FF6600</item>
+        <item name="android:statusBarColor">#FF6600</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

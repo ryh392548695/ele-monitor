@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="comparison_array">
+        <item>&gt;</item>
+        <item>&lt;</item>
+        <item>&gt;=</item>
+        <item>&lt;=</item>
+        <item>==</item>
+        <item>!=</item>
+    </string-array>
+</resources>
